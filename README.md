@@ -2,7 +2,7 @@
 # Heart-Disease-Detection
 ***
 ## Data
-The Data is avaiable on kaggle 
+The Data is avaiable on kaggle.
 Link for the dataset is https://www.kaggle.com/ronitf/heart-disease-uci
 ***
 ##  Content for Data
